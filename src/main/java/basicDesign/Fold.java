@@ -56,5 +56,12 @@ public class Fold {
             sum3 = sum3 + j;
         }
         System.out.println("\n"+"Сумма всех чисел последовательности кратных 7 равна " +sum3);
+
+        int sum4;
+        sum4=sum-sum3;
+
+        System.out.println("Разность сумм последовательностей, кратных 7 и 2 равна: "+sum4);
+
+
     }
 }
