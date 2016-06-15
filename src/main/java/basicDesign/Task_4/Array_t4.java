@@ -37,7 +37,7 @@ public class Array_t4 {
 
                 sum += anArray;
         }
-        System.out.println("\n"+"Сумма всех чисел последовательности кратных 7 равна " +sum);
+        System.out.println("\n" + "Сумма всех чисел последовательности кратных 7 равна " + sum);
 
         for (int i = 0; i < array.length; i++) {
             array[i] = (int) Math.round((Math.random() * 30) - 15);
