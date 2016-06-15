@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4088ed8-c98a-4001-9069-62b44e0b78f8" name="Default" comment="kursy">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/basicDesign/Task_2/SwitchRandom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/basicDesign/Task_3/Phrase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/basicDesign/Task_4/Array_t4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/basicDesign/Task_5/Array.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/basicDesign/Task_6/IrregularArrays.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Array.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Invert.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/ArrayCopy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/BubbleSorted.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/Line.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/Scann/Scann.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/Scann/Scann_arg.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Array/Sort/Sort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Urok_2/Mach.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Invert.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Sort/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Sort/ArrayCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Sort/Scann/Scann.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Sort/Scann/Scann_arg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Array/Sort/Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Urok_2/Mach.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/basicDesign/Fold.class" afterPath="" />
+    <list default="true" id="a4088ed8-c98a-4001-9069-62b44e0b78f8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/basicDesign/Fold.java" afterPath="$PROJECT_DIR$/src/main/java/basicDesign/Task_1/Fold.java" />
     </list>
     <ignored path="kursy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1104,7 +1077,7 @@
       <workItem from="1465456713045" duration="12543000" />
       <workItem from="1465851370815" duration="807000" />
       <workItem from="1465904361696" duration="19962000" />
-      <workItem from="1466019632908" duration="5899000" />
+      <workItem from="1466019632908" duration="5917000" />
     </task>
     <task id="LOCAL-00001" summary="Java_1605">
       <created>1464252047837</created>
@@ -1118,11 +1091,17 @@
       <option name="project" value="LOCAL" />
       <updated>1465329160921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="kursy">
+      <created>1466025551952</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466025551952</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111547000" />
+    <option name="totallyTimeSpent" value="111565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
