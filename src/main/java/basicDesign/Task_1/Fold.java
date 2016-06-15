@@ -24,7 +24,7 @@ public class Fold {
 
             }
         }
-        int sum1 = 0;
+        int sum1  = 0;
         for (int j = 3; j < 100; j = j + 3) {
 
             sum1 = sum1 + j;
