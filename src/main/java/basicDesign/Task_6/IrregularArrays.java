@@ -1,4 +1,4 @@
-package basicDesign.Task_6;
+package BasicDesign.Task_6;
 
 
 public class IrregularArrays {

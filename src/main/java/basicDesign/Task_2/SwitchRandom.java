@@ -1,4 +1,4 @@
-package basicDesign.Task_2;
+package BasicDesign.Task_2;
 
 public class SwitchRandom {
 

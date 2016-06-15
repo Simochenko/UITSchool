@@ -1,4 +1,4 @@
-package basicDesign.Task_5;
+package BasicDesign.Task_5;
 
 
 import java.util.Random;

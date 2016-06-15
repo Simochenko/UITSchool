@@ -1,4 +1,4 @@
-package basicDesign.Task_3;
+package BasicDesign.Task_3;
 
 /**
  * Created by Admin on 09.06.2016.

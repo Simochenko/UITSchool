@@ -1,4 +1,4 @@
-package basicDesign.Task_1;
+package BasicDesign.Task_1;
 
 
 public class Fold {
