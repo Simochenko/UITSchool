@@ -1,4 +1,4 @@
-package basictypes;
+package BasicTypes;
 
 import java.text.DecimalFormat;
 

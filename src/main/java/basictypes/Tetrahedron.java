@@ -1,4 +1,4 @@
-package basictypes;
+package BasicTypes;
 
 public class Tetrahedron {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basictypes;
+package BasicTypes;
 
 public class TextVariable {
     public static void main(String[] args) {
