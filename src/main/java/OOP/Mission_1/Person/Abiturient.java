@@ -1,7 +1,7 @@
 package OOP.Mission_1.Person;
 
-import OOP.Service.Filter;
-import OOP.Service.Rating;
+import OOP.Mission_1.Serv.Filter;
+import OOP.Mission_1.Serv.Rating;
 
 import java.util.regex.Pattern;
 

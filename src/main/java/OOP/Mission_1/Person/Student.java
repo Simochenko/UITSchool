@@ -1,7 +1,7 @@
 package OOP.Mission_1.Person;
 
-import OOP.Service.Filter;
-import OOP.Service.SimpleDate;
+import OOP.Mission_1.Serv.Filter;
+import OOP.Mission_1.Serv.SimpleDate;
 
 public class Student extends Person {
     public SimpleDate birthday;

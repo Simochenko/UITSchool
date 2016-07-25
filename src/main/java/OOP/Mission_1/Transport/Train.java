@@ -1,9 +1,9 @@
 package OOP.Mission_1.Transport;
 
-import OOP.Service.Filter;
-import OOP.Service.MainService;
-import OOP.Service.SimpleTime;
-import OOP.Service.PlacesTrain;
+import OOP.Mission_1.Serv.Filter;
+import OOP.Mission_1.Serv.MainService;
+import OOP.Mission_1.Serv.SimpleTime;
+import OOP.Mission_1.Serv.PlacesTrain;
 
 public class Train extends Transport {
     public PlacesTrain places;

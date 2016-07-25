@@ -1,6 +1,6 @@
 package OOP.Mission_1.Transport;
 
-import OOP.Service.SimpleTime;
+import OOP.Mission_1.Serv.SimpleTime;
 
 public class Transport {
     public int routeNumber;

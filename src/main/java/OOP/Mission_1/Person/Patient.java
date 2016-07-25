@@ -1,6 +1,6 @@
 package OOP.Mission_1.Person;
 
-import OOP.Service.Filter;
+import OOP.Mission_1.Serv.Filter;
 
 public class Patient extends Person {
     public int medicalCardNumber;

@@ -1,7 +1,7 @@
 package OOP.Mission_1.Article;
 
-import OOP.Service.Filter;
-import OOP.Service.MainService;
+import OOP.Mission_1.Serv.Filter;
+import OOP.Mission_1.Serv.MainService;
 
 public class Car extends Article {
     public String brand;

@@ -1,6 +1,6 @@
 package OOP.Mission_1.Article;
 
-import OOP.Service.Filter;
+import OOP.Mission_1.Serv.Filter;
 
 public class Product extends Article {
     public String name;

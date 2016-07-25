@@ -1,7 +1,7 @@
 package OOP.Mission_1.Article;
 
-import OOP.Service.Connection;
-import OOP.Service.MainService;
+import OOP.Mission_1.Serv.Connection;
+import OOP.Mission_1.Serv.MainService;
 
 public class ArticleMain {
     public static void main(String[] args) {

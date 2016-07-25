@@ -1,9 +1,9 @@
 package OOP.Mission_1.Person;
 
-import OOP.Service.Connection;
-import OOP.Service.MainService;
-import OOP.Service.SimpleDate;
-import OOP.Service.SimpleTime;
+import OOP.Mission_1.Serv.Connection;
+import OOP.Mission_1.Serv.MainService;
+import OOP.Mission_1.Serv.SimpleDate;
+import OOP.Mission_1.Serv.SimpleTime;
 
 public class PersonMain {
     public static void main(String[] args) {

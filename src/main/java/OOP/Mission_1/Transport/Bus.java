@@ -1,6 +1,6 @@
 package OOP.Mission_1.Transport;
 
-import OOP.Service.Filter;
+import OOP.Mission_1.Serv.Filter;
 
 public class Bus extends Transport{
     public String driverLastName;
